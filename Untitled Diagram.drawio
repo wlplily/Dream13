@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T06:16:36.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="wyHIqAuwxS9QmpktFuOO" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T06:26:21.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="UBfn4ft8Qfev4_wG3BmN" version="22.0.4" type="github">
   <diagram name="Page-1" id="Mr5n_VzZrHSlxhFBCaBu">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
             <mxPoint x="250" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;体外&lt;/font&gt;&lt;br&gt;（结直肠癌细胞）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;体外&lt;/font&gt;&lt;br&gt;（结肠癌细胞）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gI_VncM7pZR1dykZxJF4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-4" target="gI_VncM7pZR1dykZxJF4-24">
@@ -39,10 +39,10 @@
         <mxCell id="gI_VncM7pZR1dykZxJF4-7" value="对照组、低剂量组、中等剂量组、高剂量组" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="125" y="370" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-9" value="&lt;div style=&quot;text-indent: 16.0667px;&quot;&gt;CKK-8实验检测不同剂量葛根芩连汤对结直肠癌细胞活力的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-9" value="&lt;div style=&quot;text-indent: 16.0667px;&quot;&gt;CKK-8实验检测不同剂量葛根芩连汤对结肠癌细胞活力的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10" y="450" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-10" value="EdU与克隆增殖实验检测不同剂量葛根芩连汤对结直肠癌细胞增殖的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-10" value="EdU与克隆增殖实验检测不同剂量葛根芩连汤对结肠癌细胞增殖的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="450" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gI_VncM7pZR1dykZxJF4-11" value="划痕实验、Transwell与Western-blot实验检测不同剂量葛根芩连汤对结直肠癌细胞迁移和侵袭能力的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
