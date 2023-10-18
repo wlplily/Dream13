@@ -1,96 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T06:27:07.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NgEwklVH6saW4Cqlfi4v" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T06:38:14.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4XEDxdl7VmEox_Q-AVvR" version="22.0.4" type="github">
   <diagram name="Page-1" id="Mr5n_VzZrHSlxhFBCaBu">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gI_VncM7pZR1dykZxJF4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="270" as="targetPoint" />
-            <mxPoint x="430" y="180" as="sourcePoint" />
+            <mxPoint x="1390" y="330" as="targetPoint" />
+            <mxPoint x="1070" y="240" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="550" y="220" />
-              <mxPoint x="751" y="220" />
+              <mxPoint x="1190" y="280" />
+              <mxPoint x="1391" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1" source="62sjdaFhIMwfMPhXAav_-1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="62sjdaFhIMwfMPhXAav_-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="270" as="targetPoint" />
+            <mxPoint x="890" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="62sjdaFhIMwfMPhXAav_-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;葛根芩连汤&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="62sjdaFhIMwfMPhXAav_-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基础研究&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="171" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-3">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="370" as="targetPoint" />
+            <mxPoint x="890" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;体外&lt;/font&gt;&lt;br&gt;（结肠癌细胞）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;体外&lt;/font&gt;&lt;br&gt;（结肠癌细胞）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="830" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-4" target="gI_VncM7pZR1dykZxJF4-24">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-4" target="gI_VncM7pZR1dykZxJF4-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;体内&lt;/font&gt;&lt;br&gt;（小鼠皮下异种移植模型）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="665" y="270" width="160" height="60" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;体内&lt;/font&gt;&lt;br&gt;（小鼠皮下异种移植模型）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="330" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-7" value="对照组、低剂量组、中等剂量组、高剂量组" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="125" y="370" width="290" height="40" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-7" value="对照组、低剂量组、中等剂量组、高剂量组" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="765" y="430" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-9" value="&lt;div style=&quot;text-indent: 16.0667px;&quot;&gt;CKK-8实验检测不同剂量葛根芩连汤对结肠癌细胞活力的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="450" width="95" height="80" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-9" value="&lt;div style=&quot;text-indent: 16.0667px;&quot;&gt;CKK-8实验检测不同剂量葛根芩连汤对结肠癌细胞活力的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-10" value="EdU与克隆增殖实验检测不同剂量葛根芩连汤对结肠癌细胞增殖的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="450" width="90" height="80" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-10" value="EdU与克隆增殖实验检测不同剂量葛根芩连汤对结肠癌细胞增殖的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="510" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-11" value="划痕实验、Transwell与Western-blot实验检测不同剂量葛根芩连汤对结肠癌细胞迁移和侵袭能力的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="205" y="450" width="120" height="80" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-11" value="划痕实验、Transwell与Western-blot实验检测不同剂量葛根芩连汤对结肠癌细胞迁移和侵袭能力的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="845" y="510" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-12" value="流式细胞术检测不同剂量葛根芩连汤对结肠癌细胞凋亡的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="450" width="80" height="80" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-12" value="流式细胞术检测不同剂量葛根芩连汤对结肠癌细胞凋亡的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="970" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-13" value="细胞周期检测试剂盒检测不同剂量葛根芩连汤对结肠癌细胞周期的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="450" width="89" height="80" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-13" value="细胞周期检测试剂盒检测不同剂量葛根芩连汤对结肠癌细胞周期的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1055" y="510" width="89" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-14" value="&amp;nbsp;&amp;nbsp;用ELISA与Western-blot实验检测不同剂量葛根芩连汤对结肠癌细胞脂代谢过程的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="509" y="450" width="110" height="80" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-14" value="&amp;nbsp;&amp;nbsp;用ELISA与Western-blot实验检测不同剂量葛根芩连汤对结肠癌细胞脂代谢过程的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1149" y="510" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;rotation=90;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="290.8" y="176.59" width="41.05" height="505.78" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;rotation=90;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930.8" y="236.59" width="41.05" height="505.78" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-16">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="580" as="targetPoint" />
+            <mxPoint x="950" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-16" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="60" y="530" width="500" height="20" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-16" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#788AA3;fontColor=#000000;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="700" y="590" width="500" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-19" target="gI_VncM7pZR1dykZxJF4-20">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-19" target="gI_VncM7pZR1dykZxJF4-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-19" value="网络药理学分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="225" y="580" width="170" height="30" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-19" value="网络药理学分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="865" y="640" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-20" target="gI_VncM7pZR1dykZxJF4-22">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-20" target="gI_VncM7pZR1dykZxJF4-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-20" value="葛根芩连汤对结肠癌细胞作用机制研究" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="660" width="240" height="30" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-20" value="葛根芩连汤对结肠癌细胞作用机制研究" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="830" y="720" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-22" value="MAPK信号通路" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="720" width="240" height="30" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-22" value="MAPK信号通路" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="830" y="780" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-24" target="gI_VncM7pZR1dykZxJF4-26">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-24" target="gI_VncM7pZR1dykZxJF4-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-24" value="葛根芩连汤对异移植裸鼠肿瘤生长、细胞凋亡的影响" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="685" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-24" value="葛根芩连汤对异移植裸鼠肿瘤生长、细胞凋亡的影响" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-26" value="葛根芩连汤对异种移植裸鼠肿瘤细胞MAPK通路的影响" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="685" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="gI_VncM7pZR1dykZxJF4-26" value="葛根芩连汤对异种移植裸鼠肿瘤细胞MAPK通路的影响" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-28" value="葛根芩连汤" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;fontSize=20;labelBackgroundColor=none;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="45" width="120" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;strokeWidth=2;fontStyle=1;fontFamily=Times New Roman;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="274.22" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;临床研究&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="174.22" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-32" value="对照组、试验组" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="274.22" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-33" value="体重指标" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="357.22" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-35" value="中医证候积分" style="whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;rounded=0;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="249" y="357.22" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-37" value="肿瘤指标" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="359" y="357.22" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-38" value="免疫指标" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="449" y="357.22" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-39" value="血脂指标" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="357.22" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-40" value="&amp;nbsp;安全指标及毒性反应&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="627" y="357.22" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-41" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;rotation=90;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="439.47" y="64.22" width="41.05" height="545.78" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;strokeWidth=2;fontStyle=1;fontFamily=Times New Roman;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-43" target="gI_VncM7pZR1dykZxJF4-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-43" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#788AA3;fontColor=#000000;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="188" y="398.22" width="542" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-44" value="统计分析" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="399" y="478.22" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gI_VncM7pZR1dykZxJF4-46" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;rotation=90;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="-180.57" width="64.02" height="640.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
