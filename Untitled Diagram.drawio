@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T06:26:21.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="UBfn4ft8Qfev4_wG3BmN" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T06:27:07.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NgEwklVH6saW4Cqlfi4v" version="22.0.4" type="github">
   <diagram name="Page-1" id="Mr5n_VzZrHSlxhFBCaBu">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,16 +45,16 @@
         <mxCell id="gI_VncM7pZR1dykZxJF4-10" value="EdU与克隆增殖实验检测不同剂量葛根芩连汤对结肠癌细胞增殖的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="450" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-11" value="划痕实验、Transwell与Western-blot实验检测不同剂量葛根芩连汤对结直肠癌细胞迁移和侵袭能力的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-11" value="划痕实验、Transwell与Western-blot实验检测不同剂量葛根芩连汤对结肠癌细胞迁移和侵袭能力的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-12" value="流式细胞术检测不同剂量葛根芩连汤对结直肠癌细胞凋亡的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-12" value="流式细胞术检测不同剂量葛根芩连汤对结肠癌细胞凋亡的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-13" value="细胞周期检测试剂盒检测不同剂量葛根芩连汤对结直肠癌细胞周期的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-13" value="细胞周期检测试剂盒检测不同剂量葛根芩连汤对结肠癌细胞周期的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="450" width="89" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-14" value="&amp;nbsp;&amp;nbsp;用ELISA与Western-blot实验检测不同剂量葛根芩连汤对结直肠癌细胞脂代谢过程的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-14" value="&amp;nbsp;&amp;nbsp;用ELISA与Western-blot实验检测不同剂量葛根芩连汤对结肠癌细胞脂代谢过程的影响" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="509" y="450" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gI_VncM7pZR1dykZxJF4-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;rotation=90;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -77,7 +77,7 @@
         <mxCell id="gI_VncM7pZR1dykZxJF4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1" source="gI_VncM7pZR1dykZxJF4-20" target="gI_VncM7pZR1dykZxJF4-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gI_VncM7pZR1dykZxJF4-20" value="葛根芩连汤对结直肠癌细胞作用机制研究" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gI_VncM7pZR1dykZxJF4-20" value="葛根芩连汤对结肠癌细胞作用机制研究" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="190" y="660" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gI_VncM7pZR1dykZxJF4-22" value="MAPK信号通路" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
